@@ -1,0 +1,16 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: blue;
+  position: absolute;
+		top: 40%;
+		width: 100%;
+		text-family: Helvetica;
+		text-size: 100;
+		text-align: center;
+}
+p {
+  color: red;
+}
+
